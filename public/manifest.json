@@ -1,6 +1,6 @@
 {
-  "theme_color": "#FF000A",
-  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "background_color": "#FF000A",
   "display": "standalone",
   "scope": "/",
   "start_url": "/?launcher=pwa",
